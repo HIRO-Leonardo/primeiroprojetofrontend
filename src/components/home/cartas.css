@@ -1,0 +1,36 @@
+@media(max-width: 768px){
+aside.kaigare img {
+    padding: 0px 15px;
+    width: 50%;
+    align-items: center;
+   
+  
+
+}
+
+@media(max-width: 576px) {
+    aside.kaigare img {
+        width: 415px;
+
+    }
+}
+.efeito2{
+    color: rgb(16, 214, 9);
+    font-size: 80%;
+    
+}
+
+
+.btn.btn-primary{
+    display: flex;
+    color: rgb(0, 0, 0);
+   text-align: center;
+   background-color: crimson;
+ 
+}
+table.cartas{
+ border: 1px;
+ color: blue;
+}
+
+}

@@ -1,0 +1,27 @@
+aside.kaigare img {
+    padding: 0px 15px;
+    width: 40%;
+    float: left;
+  
+
+}
+
+@media(max-width: 576px) {
+    aside.logo img {
+        width: 415px;
+
+    }
+}
+.efeito{
+    position: left;
+    font-style: initial;
+    color: rgb(11, 252, 2);
+    font-size: 25px;
+  
+    
+
+}
+.container{
+    display: inline-block
+}
+

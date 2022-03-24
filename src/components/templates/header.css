@@ -1,0 +1,30 @@
+header.header{
+    background-color: white;
+    padding: 0px 15px;
+    overflow: visible;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+    
+}
+
+header.header h1{
+        font-size: 1.8em;
+}
+
+.sidebar{
+    position: fixed;
+    width: 240px;
+    left: -240px;
+    background: #1e1e1e;
+    transition: all .5s ease;
+}
+
+.sidebar header{
+    font-size: 28px;
+    color:  white;
+    line-height: 70px;
+    text-align: center;
+    background: #1b1b1b;
+    font-family: "Montserrat", sans-serif;
+    
+}
